@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiquohjuli.big-elephants.com/sitemap.xml
